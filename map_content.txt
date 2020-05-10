@@ -619,6 +619,23 @@
 94 14	mesecons_delayer:delayer_on_4 1
 94 15	mesecons_delayer:delayer_on_4 2
 
+95 0	default:glass
+95 1	default:glass
+95 2	default:glass
+95 3	default:glass
+95 4	default:glass
+95 5	default:glass
+95 6	default:glass
+95 7	default:glass
+95 8	default:glass
+95 9	default:glass
+95 10	default:glass
+95 11	default:glass
+95 12	default:glass
+95 13	default:glass
+95 14	default:glass
+95 15	default:glass
+
 96 0	doors:trapdoor 2
 96 1	doors:trapdoor 0
 96 2	doors:trapdoor 1
@@ -903,7 +920,22 @@
 159 14	hardenedclay:hardened_clay_red
 159 15	hardenedclay:hardened_clay_black
 
-160	xpanes:pane					// no colors here sadly
+160 0	xpanes:pane
+160 1	xpanes:pane
+160 2	xpanes:pane
+160 3	xpanes:pane
+160 4	xpanes:pane
+160 5	xpanes:pane
+160 6	xpanes:pane
+160 7	xpanes:pane
+160 8	xpanes:pane
+160 9	xpanes:pane
+160 10	xpanes:pane
+160 11	xpanes:pane
+160 12	xpanes:pane
+160 13	xpanes:pane
+160 14	xpanes:pane
+160 15	xpanes:pane
 
 163 0	stairs:stair_acacia_wood 1
 163 1	stairs:stair_acacia_wood 3
